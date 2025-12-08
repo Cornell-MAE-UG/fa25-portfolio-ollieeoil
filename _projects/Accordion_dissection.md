@@ -1,8 +1,9 @@
 ---
 layout: project
-title: accordion_disection
+title: accordion dissection
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/accordion-cad.jpg
+image: /assets/images/accordion.png
 ---
 
+---
