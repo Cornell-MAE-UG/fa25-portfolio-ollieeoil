@@ -13,7 +13,7 @@ title: <Olivia Lee>
 
 
  
-Olivia is a junior from Brooklyn, New York studying mechanical engineering. She is interested in designing sustainable systems and using skills in test-analysis to improve ideas. Sshe is also involved in Nexus, Cornell Pro-Yos, Chinese Student Association, and works as a fitness monitor at various Cornell gyms. During her free time she likes to get coffee/boba and talk with friends in Duffield.
+Olivia is a junior from Brooklyn, New York studying mechanical engineering. She is interested in designing sustainable systems and using skills in test-analysis to improve ideas. She is also involved in Nexus, Cornell Pro-Yos, Chinese Student Association, and works as a fitness monitor at various Cornell gyms. During her free time she likes to get coffee/boba and talk with friends in Duffield.
 
 
 
